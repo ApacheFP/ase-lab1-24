@@ -1,0 +1,1 @@
+{"operation": "reduce", "arguments": "(add, [2, 1, 3, 4])", "result": 10}
